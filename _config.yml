@@ -1,10 +1,10 @@
 # --- General options --- #
 
 # Name of website
-title: From nothing to Data Science
+title: From Nothing to Data Science
 
 # Short description of your site
-description: My awesomeness in Data Science
+description: My Awesomeness in Data Science
 
 # --- Local development options ---
 # If your website is hosted locally rather than on GitHub, then you need to uncomment the next two parameters to set the url and baseurl
