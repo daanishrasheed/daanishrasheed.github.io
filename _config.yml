@@ -1,7 +1,7 @@
 # --- General options --- #
 
 # Name of website
-title: From Nothing to Data Science
+title: From Nothing to Data Scientist
 
 # Short description of your site
 description: My Awesomeness in Data Science
@@ -68,12 +68,12 @@ author:
 # If you want to add a new link that isn't here, you'll need to also edit the file _data/SocialNetworks.yml
 social-network-links:
   rss: true
-  email: "someone@example.com"
-  facebook: deanattali
-  github: daattali
-  twitter: daattali
+  email: "daanishrasheed@gmail.com"
+  facebook: "https://www.facebook.com/daanish.khan.528"
+  github: "https://github.com/daanishrasheed"
+  twitter: "https://twitter.com/RasheedDaanish"
 #  reddit: yourname
-#  linkedin: daattali
+  linkedin: "https://www.linkedin.com/in/daanish-rasheed-1855b6163/"
 #  xing: yourname
 #  stackoverflow: "3943160/daattali"
 #  snapchat: deanat78
