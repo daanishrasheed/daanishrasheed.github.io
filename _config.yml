@@ -1,7 +1,7 @@
 # --- General options --- #
 
 # Name of website
-title: From Nothing to Data Scientist
+title: Journey Through Data Science
 
 # Short description of your site
 description: My Awesomeness in Data Science
@@ -42,7 +42,7 @@ navbar-col: "#3f5759"
 navbar-text-col: "#9daaab"
 navbar-children-col: "#000000"
 page-col: "#d6ceba"
-link-col: "#008AFF"
+link-col: "#0a0963"
 hover-col: "#0085A1"
 footer-col: "#F5F5F5"
 footer-text-col: "#777777"
@@ -93,7 +93,7 @@ share-links-active:
 
 # How to display the link to the website in the footer
 # Remove this if you don't want a link in the footer
-url-pretty: "MyWebsite.com"  # eg. "deanattali.com/beautiful-jekyll"
+# url-pretty: "MyWebsite.com"  # eg. "deanattali.com/beautiful-jekyll"
 
 # --- Web Statistics Section --- #
 
