@@ -11,4 +11,4 @@ The league was founded in New York City on June 6, 1946, as the Basketball Assoc
 
 Through a zip file found on the Carnegie Mellon website, which has data on every professional NBA player since 1946, I was able to make inferences on the coherency that an NBA athlete’s performance in the regular season, has with their performance in the postseason (playoffs). Because of many rule changes that have occurred through the years, I am only looking at players that played starting in 1985.
 
-![Chart](C:\Users\daani\daanishrasheed.github.io\img\chart.JPG){: .center-block :}
+![Chart](img\chart.JPG){: .center-block :}
