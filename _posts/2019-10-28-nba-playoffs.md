@@ -31,3 +31,5 @@ To get rid of these outliers, the players who barely have any experience in the 
 The heatmap only takes into account players who played at least a hundred playoff games throughout their career meaning they have more experience. Evidently the correlation in every statistic is much stronger than it was in the previous heatmap most notably in FG %.
 
 From these observations, I believe it is safe to assume that the players who perform consistently well in the regular season and at the same time, have more experience in the playoffs, their impact on the court does not change significantly, although their specific stats will decrease.
+
+To see the methods used to analyze the data, [click here](https://github.com/daanishrasheed/DS-Unit-1-Build/blob/master/Unit1_Build_Week.ipynb).
