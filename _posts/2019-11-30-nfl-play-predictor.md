@@ -13,3 +13,4 @@ Before beginning to apply a model on the data, I had to clean it by removing som
 To find a model that would predict the most accurate results with respect to the data provided, I trained two machine learning alogorithms, Random Forest Classifier and XGBoost Classifier, on my data provided to me from the scikit learn package. I decided to go with the XGBoost Classifier, since it proved to be more accurate, and managed to derice the chart below:
 
 ![Chart](/img/weight-chart.JPG){: .center-block :}
+
