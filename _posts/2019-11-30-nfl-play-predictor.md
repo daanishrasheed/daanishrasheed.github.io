@@ -24,4 +24,4 @@ What I found very surprising is that the down a team is on, does not hold as muc
 
 This indicates that the closer an offense is to getting to a fourth down, the more likely they are to run a pass play, which seems correct. This proved to me that although this algorithm does not take downs as seriously as one would think, it still plays a significant role in the result.
 
-To try out the app for yourself, [click here](https://github.com/daanishrasheed/Unit2_Build_Project), and to see the methods I used to create this app, [click here](https://ds9unit2buildproject.herokuapp.com/).
+To try out the app for yourself, [click here](https://ds9unit2buildproject.herokuapp.com/), and to see the methods I used to create this app, [click here](https://github.com/daanishrasheed/Unit2_Build_Project).
