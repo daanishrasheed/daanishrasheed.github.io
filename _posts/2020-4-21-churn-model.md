@@ -33,3 +33,5 @@ Starting with the original dataset, it obviously had to be cleaned so that we ca
 ## Evaluation
 
 We evaluated our model on unseen test data and got a ROC AUC score of 0.858. This leads us to believe that our model will generalize well to future data.
+
+To see the methods used to derive these results, [click here](https://github.com/daanishrasheed/churn-model)
